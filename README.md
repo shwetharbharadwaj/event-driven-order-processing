@@ -1,5 +1,3 @@
-# event-driven-order-processing
-
 # AWS Event-Driven Order Processing System
 A production-ready, event-driven order processing system built with AWS serverless services. This project demonstrates microservices architecture, asynchronous messaging, fault tolerance, and observability patterns used by companies like Amazon, Netflix, and Uber.
 
